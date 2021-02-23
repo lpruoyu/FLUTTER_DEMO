@@ -1,0 +1,1 @@
+const String apiUrl = "http://a.itying.com/api/productlist";
